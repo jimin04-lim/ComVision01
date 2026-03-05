@@ -15,6 +15,8 @@
   ```python
   ```
 - **결과물**:
+<img width="2845" height="1675" alt="image" src="https://github.com/user-attachments/assets/52f65b68-9aee-4d6a-98fc-d148ec49061e" />
+
 
 
 ## 0102. 페인팅 붓 크기 조절
@@ -31,6 +33,9 @@
   ```python
   ```
 - **결과물**: 
+<img width="2835" height="1799" alt="image" src="https://github.com/user-attachments/assets/88470528-8b0f-4e0d-b065-94e54aa3b6f1" />
+<img width="1015" height="388" alt="image" src="https://github.com/user-attachments/assets/74258ccc-b7f6-4b61-bf13-6fba43118472" />
+
 
 ## 0103. ROI(관심영역) 추출
 - **설명**: 마우스 드래그로 영역을 선택하고 영역만 저장 혹은 표시
@@ -46,4 +51,9 @@
 - **주요코드**
   ```python
   ```
-- **결과물**: 
+- **결과물**:
+<img width="2807" height="1651" alt="image" src="https://github.com/user-attachments/assets/464e49c5-f099-4f86-aa9b-882522d9c916" />
+<img width="1805" height="1474" alt="image" src="https://github.com/user-attachments/assets/269e71c5-7c22-4fef-bc4a-26165a52e88b" />
+
+
+
